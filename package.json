@@ -1,7 +1,8 @@
 {
-  "name": "@astrojs/cli-kit",
+  "name": "@tokens-studio/cli-kit",
+  "description": "Fork of @astrojs/cli-kit",
   "type": "module",
-  "version": "0.4.1",
+  "version": "0.0.1",
   "license": "MIT",
   "types": "./dist/index.d.ts",
   "packageManager": "pnpm@9.15.4",
